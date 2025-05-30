@@ -1,6 +1,8 @@
 # G8ZAX Minos Archive tool. Allows multiple .cls, .edi and .minos
 #       files for be combined into an archive file
+
 # Copyright (C) 2025  Rob Rees G8ZAX  rob.rees@zaxsoft.co.uk
+
 # This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Lesser General Public License as published by
 #    the Free Software Foundation, version 3 of the License.
