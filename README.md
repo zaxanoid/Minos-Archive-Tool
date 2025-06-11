@@ -1,6 +1,7 @@
 G8ZAX Minos Archive tool. 
 Allows multiple .cls, .edi and .minos files for be combined into an archive file
 
+works on Windows and MacOS, not tried under Linux
 
 I wrote this because I could not find anything which did exactly what I wanted.
 
